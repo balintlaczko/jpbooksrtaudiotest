@@ -1,0 +1,9 @@
+version: 1
+project:
+  title: Real-Time Audio PoC
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    style: ./custom.css

@@ -1,0 +1,10 @@
+/* Override MyST theme aspect ratio for specific widgets */
+iframe {
+    position: relative !important;
+}
+
+.audio-widget {
+    aspect-ratio: auto !important;
+    height: 150px !important;
+    margin-bottom: 50px !important;
+}
